@@ -51,13 +51,13 @@ Alternatively, you can just click the **Run 'app'** button (Shift + F10) in Andr
 Place your screenshot files (e.g., `daily_tips.jpg`, `crop_categories.jpg`) in the `screenshots/` folder.
 
 <p float="left">
-  <img src="screenshots/daily_tips.jpg" width="30%" alt="Daily Tips" />
-  <img src="screenshots/crop_categories.jpg" width="30%" alt="Crop Categories" /> 
-  <img src="screenshots/ask_expert.jpg" width="30%" alt="Ask the Expert" />
+  <img src="screenshots/daily_tips.jpeg" width="30%" alt="Daily Tips" />
+  <img src="screenshots/crop_categories.jpeg" width="30%" alt="Crop Categories" /> 
+  <img src="screenshots/ask_expert.jpeg" width="30%" alt="Ask the Expert" />
 </p>
 <p float="left">
-  <img src="screenshots/success_stories.jpg" width="30%" alt="Success Stories" />
-  <img src="screenshots/settings.jpg" width="30%" alt="Settings" />
+  <img src="screenshots/success_stories.jpeg" width="30%" alt="Success Stories" />
+  <img src="screenshots/settings.jpeg" width="30%" alt="Settings" />
 </p>
 
 ## Demo Link
