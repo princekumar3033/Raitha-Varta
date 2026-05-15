@@ -7,6 +7,9 @@ import androidx.room.RoomDatabase
 import com.raithavarta.app.data.model.Tip
 import com.raithavarta.app.data.model.SuccessStory
 
+import androidx.room.migration.Migration
+import androidx.sqlite.db.SupportSQLiteDatabase
+
 @Database(
     entities = [Tip::class, SuccessStory::class],
     version = 2,

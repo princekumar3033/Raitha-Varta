@@ -14,6 +14,11 @@ Traditional agricultural advisories are often long, complex, and difficult for f
 * **Bookmark & Share:** Save important advisories and share them directly with other farmers.
 * **User-Generated Content:** Features allowing farmers to submit their own insights and stories.
 
+## Impact Goals
+* **Precision Farming:** Bringing expert knowledge to the smallest fields.
+* **Yield Improvement:** Reducing losses due to pests and incorrect fertilization.
+* **Digital Inclusion:** Making scientific data "Digestible" for everyone.
+
 ## Tech Stack
 * **Platform:** Android
 * **Languages:** Kotlin / Java
