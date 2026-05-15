@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">ರೈಥ ವಾರ್ತಾ ಬಗ್ಗೆ</string>
+    <string name="all">ಎಲ್ಲಾ</string>
+    <string name="app_name">ರೈಥ ವಾರ್ತಾ</string>
+    <string name="areca_nut">ಅಡಿಕೆ</string>
+    <string name="ask_expert">ತಜ್ಞರನ್ನು ಕೇಳಿ 🔬</string>
+    <string name="bookmarks">ಬುಕ್‌ಮಾರ್ಕ್ಸ್</string>
+    <string name="categories">ಬೆಳೆಗಳು</string>
+    <string name="coconut">ತೆಂಗಿನಕಾಯಿ</string>
+    <string name="crop_categories">ಬೆಳೆ ವಿಭಾಗಗಳು</string>
+    <string name="daily_tips">ದೈನಂದಿನ ಸಲಹೆ 🌱</string>
+    <string name="expert_ask">ತಜ್ಞ</string>
+    <string name="expert_subtitle">AI ವಿಶ್ಲೇಷಣೆಗಾಗಿ ರೋಗಗ್ರಸ್ತ ಎಲೆಯ ಫೋಟೊ ತೆಗೆಯಿರಿ</string>
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="home">ಮನೆ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="no_tips_found">ಯಾವುದೇ ಸಲಹೆ ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="paddy">ಭತ್ತ</string>
+    <string name="select_crop">ನಿರ್ದಿಷ್ಟ ಸಲಹೆಗಳನ್ನು ನೋಡಲು ನಿಮ್ಮ ಬೆಳೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="share_tip">ಈ ಸಲಹೆ ಹಂಚಿ</string>
+    <string name="skip">ಬಿಡಿ</string>
+    <string name="stories">ಕಥೆಗಳು</string>
+    <string name="success_stories">ಯಶೋಗಾಥೆಗಳು 🏆</string>
+    <string name="swipe_hint">← ಇನ್ನಷ್ಟು ಸ್ವೈಪ್ →</string>
+    <string name="tomato">ಟೊಮ್ಯಾಟೊ</string>
+</resources>

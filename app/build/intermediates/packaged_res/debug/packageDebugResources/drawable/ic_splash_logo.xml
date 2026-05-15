@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:width="108dp" 
+    android:height="108dp" 
+    android:viewportWidth="108" 
+    android:viewportHeight="108">
+    
+    <!-- Outer green circle background -->
+    <path android:fillColor="#1B5E20" android:pathData="M54,54m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0" />
+    
+    <!-- Orange Sun -->
+    <path android:fillColor="#FF8F00" android:pathData="M54,54m-34,0a34,34 0,1 1,68 0a34,34 0,1 1,-68 0" />
+    <path android:fillColor="#FFA000" android:pathData="M54,54m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0" />
+
+    <!-- Green Field -->
+    <path android:fillColor="#4CAF50" android:pathData="M14,65 Q35,50 54,65 Q73,80 94,65 L94,80 A44,44 0 0 1 14,80 Z" />
+    <path android:fillColor="#388E3C" android:pathData="M10,75 Q35,60 54,75 Q73,90 98,75 L98,82 A46,46 0 0 1 10,82 Z" />
+    <path android:fillColor="#2E7D32" android:pathData="M14,84 Q54,70 94,84 A42,42 0 0 1 14,84 Z" />
+
+    <!-- Farmer Silhouette (White) -->
+    <!-- Farmer Hat (Conical Asian/Indian Farmer Hat) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M40,42 L68,42 L54,30 Z" />
+    
+    <!-- Farmer Head -->
+    <path android:fillColor="#FFFFFF" android:pathData="M54,48m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    
+    <!-- Farmer Body -->
+    <path android:fillColor="#FFFFFF" android:pathData="M48,50 L60,50 L62,70 L46,70 Z" />
+    
+    <!-- Left Arm holding tool -->
+    <path android:fillColor="#FFFFFF" android:pathData="M48,52 L36,64 L38,66 L50,54 Z" />
+    
+    <!-- Right Arm holding tool -->
+    <path android:fillColor="#FFFFFF" android:pathData="M60,52 L42,66 L44,68 L62,54 Z" />
+    
+    <!-- Legs -->
+    <path android:fillColor="#FFFFFF" android:pathData="M48,70 L46,85 L50,85 L52,70 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M60,70 L62,85 L58,85 L56,70 Z" />
+
+    <!-- Tool (Hoe) -->
+    <!-- Handle -->
+    <path android:fillColor="#EFEBE9" android:pathData="M34,40 L37,40 L25,85 L22,85 Z" />
+    <!-- Hoe Blade -->
+    <path android:fillColor="#D7CCC8" android:pathData="M22,83 L32,80 L31,88 L21,91 Z" />
+</vector>

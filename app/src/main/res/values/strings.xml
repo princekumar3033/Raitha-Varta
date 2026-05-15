@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raitha Varta</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="categories">Crops</string>
+    <string name="expert_ask">Expert</string>
+    <string name="stories">Stories</string>
+    <string name="settings">Settings</string>
+    <string name="bookmarks">Bookmarks</string>
+
+    <!-- Home -->
+    <string name="daily_tips">Daily Tips 🌱</string>
+    <string name="all">All</string>
+    <string name="swipe_hint">← Swipe for more →</string>
+    <string name="share_tip">Share this tip</string>
+    <string name="no_tips">No tips</string>
+    <string name="no_tips_found">No tips found</string>
+
+    <!-- Categories -->
+    <string name="crop_categories">Crop Categories</string>
+    <string name="select_crop">Select your crop to see specific tips</string>
+    <string name="paddy">Paddy</string>
+    <string name="areca_nut">Areca Nut</string>
+    <string name="coconut">Coconut</string>
+    <string name="tomato">Tomato</string>
+    <string name="no_tips_category">No tips for this category yet</string>
+
+    <!-- Expert Ask -->
+    <string name="ask_expert">Ask the Expert 🔬</string>
+    <string name="expert_subtitle">Take a photo of a diseased leaf for AI analysis</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="analyze_leaf">🔍 Analyze Leaf</string>
+    <string name="analyzing">Analyzing with AI…</string>
+    <string name="analyzing_gemini">🤖 Gemini is analyzing your plant…</string>
+    <string name="reset">Take Another Photo</string>
+    <string name="upload_photo">Upload photo</string>
+    <string name="tap_to_upload">Tap camera or gallery to upload</string>
+    <string name="leaf_preview">Leaf preview</string>
+    <string name="camera_permission_denied">Camera permission is required to take photos</string>
+    <string name="camera_rationale">We need camera access to photograph diseased leaves</string>
+    <string name="camera_error">Could not open camera</string>
+    <string name="offline_note">⚠️ You are offline. Results are based on local AI model.</string>
+    <string name="analysis_error">Could not analyze the image. Please try again.</string>
+    <string name="no_image_selected">Please select an image first</string>
+    <string name="api_key_missing">Please set your Gemini API key in build.gradle</string>
+
+    <!-- Stories -->
+    <string name="success_stories">Success Stories 🏆</string>
+    <string name="farmer_photo">Farmer photo</string>
+    <string name="no_stories">No stories</string>
+    <string name="no_stories_yet">No success stories yet</string>
+    <string name="add_your_story">Share Your Story</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_location">Your Location (e.g. Mandya, Karnataka)</string>
+    <string name="your_story">Tell us your story…</string>
+    <string name="yield_improvement">Yield improvement (e.g. 30% increase)</string>
+    <string name="select_crop_category">Select Crop</string>
+    <string name="submit_story">Submit Story</string>
+    <string name="cancel">Cancel</string>
+    <string name="story_submitted">Your story has been submitted! 🎉</string>
+    <string name="fill_all_fields">Please fill in all fields</string>
+
+    <!-- Bookmarks -->
+    <string name="no_bookmarks">No bookmarks</string>
+    <string name="no_bookmarks_yet">No bookmarks saved yet</string>
+    <string name="bookmark_hint">Tap the bookmark icon on any tip to save it here</string>
+
+    <!-- Settings -->
+    <string name="language">Language</string>
+    <string name="language_subtitle">Choose your preferred language for tips</string>
+    <string name="daily_notifications">Daily Tip Notifications</string>
+    <string name="notification_desc">Get a new farming tip every morning at 6 AM</string>
+    <string name="about">About Raitha Varta</string>
+    <string name="about_description">Raitha Varta brings expert agricultural advisories to your fingertips as simple, swipeable flash-cards. Made for farmers in India, with love. 🌾</string>
+    <string name="version_format">Version %1$s</string>
+
+    <!-- Onboarding -->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="onboarding_icon">Feature illustration</string>
+
+    <!-- General -->
+    <string name="tip_image">Tip image</string>
+    <string name="tip_type">Tip type</string>
+</resources>

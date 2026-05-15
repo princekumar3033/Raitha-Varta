@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_bookmark_filled.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_bookmark_filled.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_coconut_fertilizer.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_coconut_fertilizer.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_paddy_transplant.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_paddy_transplant.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_circle_white_bg.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/circle_white_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/anim_slide_out_left.xml.flat",
+        "source": "com.raithavarta.app-main-65:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_bookmark_outline.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_bookmark_outline.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/anim_slide_in_right.xml.flat",
+        "source": "com.raithavarta.app-main-65:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_areca_yellow.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_areca_yellow.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/color_bottom_nav_color.xml.flat",
+        "source": "com.raithavarta.app-main-65:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_gallery.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_gallery.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_paddy_water.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_paddy_water.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_dot_inactive.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/dot_inactive.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_story_lakshmi.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/story_lakshmi.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_dialog_add_story.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/dialog_add_story.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_placeholder_farmer.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/placeholder_farmer.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_item_tip_card.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/item_tip_card.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_categories.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_categories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_add.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_prevention_bg.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/prevention_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_coconut_harvest.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_coconut_harvest.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_fragment_stories.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_fragment_home.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_activity_main.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_paddy_weed.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_paddy_weed.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_analyze.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_analyze.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_story_savitha.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/story_savitha.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_crop_tomato.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/crop_tomato.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_areca_koleroga.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_areca_koleroga.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/xml_locales_config.xml.flat",
+        "source": "com.raithavarta.app-main-65:/xml/locales_config.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_coconut_beetle.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_coconut_beetle.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_gradient_overlay.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/gradient_overlay.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_activity_onboarding.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_gradient_bottom.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/gradient_bottom.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_back.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_story_nagaraj.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/story_nagaraj.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_paddy_blast.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_paddy_blast.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_tag_background.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/tag_background.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_tomato_water.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_tomato_water.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_fragment_categories.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_story_ramesh.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/story_ramesh.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_camera.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_action_tag_bg.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/action_tag_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_crop_paddy.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/crop_paddy.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_fertilizer.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_fertilizer.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_fragment_settings.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_tomato_staking.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_tomato_staking.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_home.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_crop_areca.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/crop_areca.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/xml_file_paths.xml.flat",
+        "source": "com.raithavarta.app-main-65:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_dot_active.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/dot_active.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/anim_slide_in_left.xml.flat",
+        "source": "com.raithavarta.app-main-65:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_item_onboarding_slide.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/item_onboarding_slide.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_camera_upload.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_camera_upload.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_settings.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_empty_stories.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_empty_stories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_fragment_bookmarks.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/anim_slide_out_right.xml.flat",
+        "source": "com.raithavarta.app-main-65:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_onboarding_expert.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_onboarding_expert.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_pest.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_pest.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_general_tip.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_general_tip.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_water.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_water.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_expert.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_expert.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_stories.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_stories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_placeholder_crop.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/placeholder_crop.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_fragment_category_detail.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_category_detail.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_tomato_blight.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_tomato_blight.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_onboarding_filter.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_onboarding_filter.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_onboarding_tips.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_onboarding_tips.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_tomato_whitefly.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_tomato_whitefly.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_remedy_bg.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/remedy_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/navigation_nav_graph.xml.flat",
+        "source": "com.raithavarta.app-main-65:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_item_story_card.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/item_story_card.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_harvest.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_harvest.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_item_tip_list.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/item_tip_list.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_splash_logo.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_splash_logo.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/layout_fragment_expert_ask.xml.flat",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_expert_ask.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_empty_tips.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_empty_tips.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.raithavarta.app-main-65:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_tip_areca_spacing.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/tip_areca_spacing.png"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable_ic_share.xml.flat",
+        "source": "com.raithavarta.app-main-65:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-debug-63:/drawable-nodpi_crop_coconut.png.flat",
+        "source": "com.raithavarta.app-main-65:/drawable-nodpi/crop_coconut.png"
+    }
+]

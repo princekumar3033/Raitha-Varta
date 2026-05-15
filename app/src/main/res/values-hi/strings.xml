@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रायथा वार्ता</string>
+
+    <!-- Navigation -->
+    <string name="home">होम</string>
+    <string name="categories">फसलें</string>
+    <string name="expert_ask">विशेषज्ञ</string>
+    <string name="stories">कहानियाँ</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="bookmarks">बुकमार्क</string>
+
+    <!-- Home -->
+    <string name="daily_tips">रोज़ के नुस्खे 🌱</string>
+    <string name="all">सभी</string>
+    <string name="swipe_hint">← और देखने के लिए स्वाइप करें →</string>
+    <string name="share_tip">इसे शेयर करें</string>
+    <string name="no_tips">कोई नुस्खा नहीं</string>
+    <string name="no_tips_found">कोई नुस्खा नहीं मिला</string>
+
+    <!-- Categories -->
+    <string name="crop_categories">फसल श्रेणियां</string>
+    <string name="select_crop">विशिष्ट नुस्खे देखने के लिए अपनी फसल चुनें</string>
+    <string name="paddy">धान</string>
+    <string name="areca_nut">सुपारी</string>
+    <string name="coconut">नारियल</string>
+    <string name="tomato">टमाटर</string>
+    <string name="no_tips_category">इस श्रेणी के लिए अभी तक कोई नुस्खा नहीं</string>
+
+    <!-- Expert Ask -->
+    <string name="ask_expert">विशेषज्ञ से पूछें 🔬</string>
+    <string name="expert_subtitle">AI विश्लेषण के लिए रोगग्रस्त पत्ते की तस्वीर लें</string>
+    <string name="camera">कैमरा</string>
+    <string name="gallery">गैलरी</string>
+    <string name="analyze_leaf">🔍 पत्ते का विश्लेषण करें</string>
+    <string name="analyzing">AI विश्लेषण कर रहा है…</string>
+    <string name="analyzing_gemini">🤖 जेमिनी आपके पौधे का विश्लेषण कर रहा है…</string>
+    <string name="reset">दूसरी तस्वीर लें</string>
+    <string name="upload_photo">तस्वीर अपलोड करें</string>
+    <string name="tap_to_upload">अपलोड करने के लिए कैमरा या गैलरी पर टैप करें</string>
+    <string name="leaf_preview">पत्ते का पूर्वावलोकन</string>
+    <string name="camera_permission_denied">तस्वीरें लेने के लिए कैमरे की अनुमति आवश्यक है</string>
+    <string name="camera_rationale">रोगग्रस्त पत्तों की तस्वीर लेने के लिए हमें कैमरे की पहुंच चाहिए</string>
+    <string name="camera_error">कैमरा नहीं खुल सका</string>
+    <string name="offline_note">⚠️ आप ऑफ़लाइन हैं। परिणाम स्थानीय AI मॉडल पर आधारित हैं।</string>
+    <string name="analysis_error">छवि का विश्लेषण नहीं हो सका। कृपया पुनः प्रयास करें।</string>
+    <string name="no_image_selected">कृपया पहले एक छवि चुनें</string>
+    <string name="api_key_missing">कृपया build.gradle में अपनी जेमिनी एपीआई कुंजी सेट करें</string>
+
+    <!-- Stories -->
+    <string name="success_stories">सफलता की कहानियाँ 🏆</string>
+    <string name="farmer_photo">किसान की तस्वीर</string>
+    <string name="no_stories">कोई कहानी नहीं</string>
+    <string name="no_stories_yet">अभी तक कोई सफलता की कहानी नहीं</string>
+    <string name="add_your_story">अपनी कहानी साझा करें</string>
+    <string name="your_name">आपका नाम</string>
+    <string name="your_location">आपका स्थान (जैसे मंड्या, कर्नाटक)</string>
+    <string name="your_story">हमें अपनी कहानी बताएं…</string>
+    <string name="yield_improvement">उपज में सुधार (जैसे 30% वृद्धि)</string>
+    <string name="select_crop_category">फसल चुनें</string>
+    <string name="submit_story">कहानी सबमिट करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="story_submitted">आपकी कहानी सबमिट कर दी गई है! 🎉</string>
+    <string name="fill_all_fields">कृपया सभी फ़ील्ड भरें</string>
+
+    <!-- Bookmarks -->
+    <string name="no_bookmarks">कोई बुकमार्क नहीं</string>
+    <string name="no_bookmarks_yet">अभी तक कोई बुकमार्क सहेजा नहीं गया</string>
+    <string name="bookmark_hint">बुकमार्क सहेजने के लिए किसी भी नुस्खे के बुकमार्क आइकन पर टैप करें</string>
+
+    <!-- Settings -->
+    <string name="language">भाषा</string>
+    <string name="language_subtitle">नुस्खे के लिए अपनी पसंदीदा भाषा चुनें</string>
+    <string name="daily_notifications">दैनिक नुस्खे की सूचनाएं</string>
+    <string name="notification_desc">रोज़ सुबह 6 बजे खेती का नया नुस्खा पाएं</string>
+    <string name="about">रायथा वार्ता के बारे में</string>
+    <string name="about_description">रायथा वार्ता भारत के किसानों के लिए सरल विशेषज्ञ सलाह लाता है। 🌾</string>
+    <string name="version_format">संस्करण %1$s</string>
+
+    <!-- Onboarding -->
+    <string name="skip">छोड़ें</string>
+    <string name="next">अगला</string>
+    <string name="get_started">शुरू करें</string>
+    <string name="onboarding_icon">फ़ीचर चित्र</string>
+
+    <!-- General -->
+    <string name="tip_image">नुस्खे की तस्वीर</string>
+    <string name="tip_type">नुस्खे का प्रकार</string>
+</resources>

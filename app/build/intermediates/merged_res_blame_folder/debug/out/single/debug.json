@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/navigation_nav_graph.xml.flat",
+        "source": "com.raithavarta.app-main-59:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_action_tag_bg.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/action_tag_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_fragment_bookmarks.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_fertilizer.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_fertilizer.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_fragment_home.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_fragment_stories.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_activity_main.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/anim_slide_out_right.xml.flat",
+        "source": "com.raithavarta.app-main-59:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_fragment_categories.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_remedy_bg.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/remedy_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_fragment_settings.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_empty_stories.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_empty_stories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_pest.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_pest.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/anim_slide_out_left.xml.flat",
+        "source": "com.raithavarta.app-main-59:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_back.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_dot_active.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/dot_active.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_prevention_bg.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/prevention_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_home.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_settings.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_onboarding_filter.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_onboarding_filter.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_item_tip_list.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/item_tip_list.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.raithavarta.app-main-59:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_harvest.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_harvest.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/xml_file_paths.xml.flat",
+        "source": "com.raithavarta.app-main-59:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_water.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_water.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_expert.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_expert.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_bookmark_filled.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_bookmark_filled.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_item_tip_card.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/item_tip_card.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_stories.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_stories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_onboarding_expert.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_onboarding_expert.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_item_onboarding_slide.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/item_onboarding_slide.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_circle_white_bg.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/circle_white_bg.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_activity_onboarding.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/xml_locales_config.xml.flat",
+        "source": "com.raithavarta.app-main-59:/xml/locales_config.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_share.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_gallery.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_gallery.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/anim_slide_in_right.xml.flat",
+        "source": "com.raithavarta.app-main-59:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_gradient_bottom.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/gradient_bottom.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_placeholder_crop.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/placeholder_crop.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_analyze.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_analyze.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/anim_slide_in_left.xml.flat",
+        "source": "com.raithavarta.app-main-59:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_tag_background.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/tag_background.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_onboarding_tips.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_onboarding_tips.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_categories.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_categories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_gradient_overlay.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/gradient_overlay.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/color_bottom_nav_color.xml.flat",
+        "source": "com.raithavarta.app-main-59:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_placeholder_farmer.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/placeholder_farmer.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_fragment_category_detail.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/fragment_category_detail.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_general_tip.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_general_tip.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_fragment_expert_ask.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/fragment_expert_ask.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_camera_upload.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_camera_upload.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/layout_item_story_card.xml.flat",
+        "source": "com.raithavarta.app-main-59:/layout/item_story_card.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_camera.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_empty_tips.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_empty_tips.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_splash_logo.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_splash_logo.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_ic_bookmark_outline.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/ic_bookmark_outline.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-merged_res-57:/drawable_dot_inactive.xml.flat",
+        "source": "com.raithavarta.app-main-59:/drawable/dot_inactive.xml"
+    }
+]

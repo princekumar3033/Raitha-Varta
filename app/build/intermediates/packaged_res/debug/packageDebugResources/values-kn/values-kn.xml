@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">ರೈಥ ವಾರ್ತಾ ಬಗ್ಗೆ</string>
+    <string name="about_description">ರೈಥ ವಾರ್ತಾ ತಜ್ಞ ಕೃಷಿ ಸಲಹೆಗಳನ್ನು ಸರಳ ಫ್ಲಾಶ್-ಕಾರ್ಡ್‌ಗಳಾಗಿ ನಿಮ್ಮ ಬೆರಳ ತುದಿಗೆ ತರುತ್ತದೆ. ಭಾರತದ ರೈತರಿಗಾಗಿ ಪ್ರೀತಿಯಿಂದ ತಯಾರಿಸಲಾಗಿದೆ. 🌾</string>
+    <string name="add_your_story">ನಿಮ್ಮ ಕಥೆ ಹಂಚಿ</string>
+    <string name="all">ಎಲ್ಲಾ</string>
+    <string name="analysis_error">ಚಿತ್ರವನ್ನು ವಿಶ್ಲೇಷಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="analyze_leaf">🔍 ಎಲೆ ವಿಶ್ಲೇಷಿಸಿ</string>
+    <string name="analyzing">AI ನಿಂದ ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="analyzing_gemini">🤖 Gemini ನಿಮ್ಮ ಸಸ್ಯವನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತಿದೆ…</string>
+    <string name="app_name">ರೈಥ ವಾರ್ತಾ</string>
+    <string name="areca_nut">ಅಡಿಕೆ</string>
+    <string name="ask_expert">ತಜ್ಞರನ್ನು ಕೇಳಿ 🔬</string>
+    <string name="bookmarks">ಬುಕ್‌ಮಾರ್ಕ್ಸ್</string>
+    <string name="camera">ಕ್ಯಾಮೆರಾ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="categories">ಬೆಳೆಗಳು</string>
+    <string name="coconut">ತೆಂಗಿನಕಾಯಿ</string>
+    <string name="crop_categories">ಬೆಳೆ ವಿಭಾಗಗಳು</string>
+    <string name="daily_tips">ದೈನಂದಿನ ಸಲಹೆ 🌱</string>
+    <string name="expert_ask">ತಜ್ಞ</string>
+    <string name="expert_subtitle">AI ವಿಶ್ಲೇಷಣೆಗಾಗಿ ರೋಗಗ್ರಸ್ತ ಎಲೆಯ ಫೋಟೊ ತೆಗೆಯಿರಿ</string>
+    <string name="fill_all_fields">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="gallery">ಗ್ಯಾಲರಿ</string>
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="home">ಮನೆ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="no_tips_found">ಯಾವುದೇ ಸಲಹೆ ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="paddy">ಭತ್ತ</string>
+    <string name="select_crop">ನಿರ್ದಿಷ್ಟ ಸಲಹೆಗಳನ್ನು ನೋಡಲು ನಿಮ್ಮ ಬೆಳೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="select_crop_category">ಬೆಳೆ ಆಯ್ಕೆ</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್ಸ್</string>
+    <string name="share_tip">ಈ ಸಲಹೆ ಹಂಚಿ</string>
+    <string name="skip">ಬಿಡಿ</string>
+    <string name="stories">ಕಥೆಗಳು</string>
+    <string name="story_submitted">ನಿಮ್ಮ ಕಥೆ ಸಲ್ಲಿಸಲಾಗಿದೆ! 🎉</string>
+    <string name="submit_story">ಕಥೆ ಸಲ್ಲಿಸಿ</string>
+    <string name="success_stories">ಯಶೋಗಾಥೆಗಳು 🏆</string>
+    <string name="swipe_hint">← ಇನ್ನಷ್ಟು ಸ್ವೈಪ್ →</string>
+    <string name="tomato">ಟೊಮ್ಯಾಟೊ</string>
+    <string name="version_format">ಆವೃತ್ತಿ %1$s</string>
+    <string name="yield_improvement">ಇಳುವರಿ ಸುಧಾರಣೆ</string>
+    <string name="your_location">ನಿಮ್ಮ ಸ್ಥಳ</string>
+    <string name="your_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="your_story">ನಿಮ್ಮ ಕಥೆ ಹೇಳಿ…</string>
+</resources>

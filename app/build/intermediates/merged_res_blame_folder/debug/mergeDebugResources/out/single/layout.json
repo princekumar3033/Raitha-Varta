@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/fragment_settings.xml",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/activity_main.xml",
+        "source": "com.raithavarta.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/activity_onboarding.xml",
+        "source": "com.raithavarta.app-main-65:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/item_story_card.xml",
+        "source": "com.raithavarta.app-main-65:/layout/item_story_card.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/item_tip_list.xml",
+        "source": "com.raithavarta.app-main-65:/layout/item_tip_list.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/fragment_bookmarks.xml",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_bookmarks.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/fragment_home.xml",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/fragment_categories.xml",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_categories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/item_onboarding_slide.xml",
+        "source": "com.raithavarta.app-main-65:/layout/item_onboarding_slide.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/dialog_add_story.xml",
+        "source": "com.raithavarta.app-main-65:/layout/dialog_add_story.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/fragment_expert_ask.xml",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_expert_ask.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/fragment_stories.xml",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/fragment_category_detail.xml",
+        "source": "com.raithavarta.app-main-65:/layout/fragment_category_detail.xml"
+    },
+    {
+        "merged": "com.raithavarta.app-mergeDebugResources-62:/layout/item_tip_card.xml",
+        "source": "com.raithavarta.app-main-65:/layout/item_tip_card.xml"
+    }
+]
