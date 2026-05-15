@@ -57,7 +57,7 @@ Place your screenshot files (e.g., `daily_tips.jpg`, `crop_categories.jpg`) in t
 </p>
 <p float="left">
   <img src="screenshots/success_stories.jpeg" width="30%" alt="Success Stories" />
-  <img src="screenshots/settings.jpeg" width="30%" alt="Settings" />
+  <img src="screenshots/setting.jpeg" width="30%" alt="Settings" />
 </p>
 
 ## Demo Link
