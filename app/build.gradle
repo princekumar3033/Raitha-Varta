@@ -16,8 +16,12 @@ android {
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
-        // Gemini API key for Google AI Studio
-        buildConfigField "String", "GEMINI_API_KEY", '"AIzaSyBBGHetnzl6sV1ZJU_pr9o_juBOWISdVVc"'
+        // Load Gemini API key from local.properties
+        Properties properties = new Properties()
+        if (project.rootProject.file('local.properties').exists()) {
+            properties.load(project.rootProject.file('local.properties').newDataInputStream())
+        }
+        buildConfigField "String", "GEMINI_API_KEY", "\"${properties.getProperty('GEMINI_API_KEY', '')}\""
     }
 
     buildTypes {
