@@ -25,7 +25,7 @@ Traditional agricultural advisories are often long, complex, and difficult for f
 ## Installation Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/princekumar3033/Raitha-Varta.git
    ```
 2. Open the project in **Android Studio**.
 3. Wait for Android Studio to sync the project with Gradle files.
