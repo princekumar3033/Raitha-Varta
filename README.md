@@ -48,8 +48,6 @@ Alternatively, you can just click the **Run 'app'** button (Shift + F10) in Andr
 
 ## Screenshots
 
-Place your screenshot files (e.g., `daily_tips.jpg`, `crop_categories.jpg`) in the `screenshots/` folder.
-
 <p float="left">
   <img src="screenshots/daily_tips.jpeg" width="30%" alt="Daily Tips" />
   <img src="screenshots/crop_categories.jpeg" width="30%" alt="Crop Categories" /> 
@@ -59,9 +57,6 @@ Place your screenshot files (e.g., `daily_tips.jpg`, `crop_categories.jpg`) in t
   <img src="screenshots/success_stories.jpeg" width="30%" alt="Success Stories" />
   <img src="screenshots/setting.jpeg" width="30%" alt="Settings" />
 </p>
-
-## Demo Link
-[Watch the Raitha-Varta App Demo](#) *(Replace with actual link)*
 
 ## Folder Structure
 ```text
